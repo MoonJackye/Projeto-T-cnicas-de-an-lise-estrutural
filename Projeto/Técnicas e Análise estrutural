@@ -1,3 +1,6 @@
+Código implmentado no Jupyter notebook
+
+
 import sympy as sp
 sp.init_printing
 
